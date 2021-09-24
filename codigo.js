@@ -1,9 +1,3 @@
-let edad=prompt("Ingrese su edad: ")
+planetas = ["mercurio", "venus", "tierra", "marte"]
 
-if (edad>=18) {
-alert("Usted es mayor de edad")
-} 
-
-else {
-alert("Usted es menor de edad")
-}
+console.log(planetas)
